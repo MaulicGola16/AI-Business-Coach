@@ -44,7 +44,7 @@ Many entrepreneurs and small business owners struggle to access reliable, data-d
 To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository**
-git clone https://github.com/AbhinavChauhan11/AI-Business-Coach.git
+git clone https://github.com/MaulicGola16/AI-Business-Coach.git
 cd AI-Business-Coach
 
 2. **Install dependencies**  
