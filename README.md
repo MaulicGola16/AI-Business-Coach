@@ -34,10 +34,10 @@ Many entrepreneurs and small business owners struggle to access reliable, data-d
 ## Built With
 
 - **Languages:** JavaScript, HTML, CSS
-- **Frameworks/Libraries:** (e.g., React, Angular, or Vue — specify your framework here)
+- **Frameworks/Libraries:** React, Angular, or Vue
 - **Platform:** StackBlitz (WebContainers)
 - **Cloud Services:** StackBlitz instant cloud IDE and hosting
-- **APIs/Other Technologies:** (List any APIs or libraries you used, e.g., Chart.js, Firebase, etc.)
+- **APIs/Other Technologies:** ( Chart.js, Firebase, etc.)
 
 ## Getting Started
 
@@ -48,10 +48,10 @@ git clone https://github.com/AbhinavChauhan11/AI-Business-Coach.git
 cd AI-Business-Coach
 
 2. **Install dependencies**  
-*(Add your installation steps here, e.g., `npm install`)*
+*( `npm install`)*
 
 3. **Run the project**  
-*(Add run instructions here, e.g., `npm start` or open in StackBlitz)*
+*(A `npm start` or open in StackBlitz)*
 
 Alternatively, you can open and run the project instantly on [StackBlitz](https://stackblitz.com/edit/sb1-svnf5pyf).
 
